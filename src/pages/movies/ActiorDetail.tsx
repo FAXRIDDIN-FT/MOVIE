@@ -1,6 +1,5 @@
 import { usePerson } from "@/api/hooks/usePerson";
 import MovieView from "@/components/movie-view/MovieView";
-import React, { useEffect } from "react";
 import { useParams } from "react-router-dom";
 
 const ActiorDetail = () => {
