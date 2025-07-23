@@ -68,4 +68,4 @@ const ActiorDetail = () => {
   );
 };
 
-export default React.memo(ActiorDetail);
+export default ActiorDetail;
